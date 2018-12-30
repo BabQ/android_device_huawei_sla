@@ -18,4 +18,4 @@ Display      | 720 x 1280 pixels, 5.0" IPS
 Rear Camera  | 13.0 MP, LED flash
 Front Camera | 5.0 MP
 
-![HUAWEI Enjoy 7](http://www.100mai.net/upload/pis/big1/f82efa69-2801-488c-960b-5b48ffa43f24/20170727105405_9632.jpg "HUAWEI Enjoy 7")
+![HUAWEI Enjoy 7](http://img3.imgtn.bdimg.com/it/u=3466045374,3924822523&fm=26&gp=0.jpg "HUAWEI Enjoy 7")
