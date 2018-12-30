@@ -24,7 +24,7 @@ PRODUCT_PACKAGES += \
 
 # Kernel
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/recovery/kernel:kernel
+    $(LOCAL_PATH)/prebuilt/Image.gz-dtb:kernel
 
 # sdcardfs
 PRODUCT_PROPERTY_OVERRIDES += \
