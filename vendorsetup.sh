@@ -15,3 +15,5 @@
 #
 
 add_lunch_combo omni_sla-userdebug
+add_lunch_combo omni_sla-eng
+

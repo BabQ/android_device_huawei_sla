@@ -27,7 +27,3 @@ PRODUCT_NAME := omni_sla
 # Default.prop
 ADDITIONAL_DEFAULT_PROPERTIES += \
     persist.sys.timezone=Asia/Shanghai
-
-# Time Zone data Credits to desalesouche
-PRODUCT_COPY_FILES += \
-	bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
