@@ -3,6 +3,10 @@ Team Win Recovery Project
 Device configuration for HUAWEI Enjoy7   (sla)
 =====================================================
 
+
+![ENJOY 7](http://app.3987.com/uploadfile/2017/0821/20170821015837646.jpg "ENJOY 7")
+
+
 Basic        | Spec Sheet
 ------------:|:-------------------------
 CPU          | Octa-core 1.4 GHz Cortex-A53
@@ -17,5 +21,3 @@ Dimensions   | 143.5x71x8.05 mm
 Display      | 720 x 1280 pixels, 5.0" IPS
 Rear Camera  | 13.0 MP, LED flash
 Front Camera | 5.0 MP
-
-![ENJOY 7](http://delemanagement.com/wp-content/uploads/2017/05/Huawei_Changxiang_loop_7.jpg "ENJOY 7")
