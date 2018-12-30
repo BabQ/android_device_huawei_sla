@@ -18,4 +18,4 @@ Display      | 720 x 1280 pixels, 5.0" IPS
 Rear Camera  | 13.0 MP, LED flash
 Front Camera | 5.0 MP
 
-![HUAWEI Enjoy 7](http://img4.imgtn.bdimg.com/it/u=4003883076,1924532414&fm=26&gp=0.jpg)
+![ENJOY 7](http://delemanagement.com/wp-content/uploads/2017/05/Huawei_Changxiang_loop_7.jpg "ENJOY 7")
